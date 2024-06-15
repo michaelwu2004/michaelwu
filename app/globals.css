@@ -59,10 +59,9 @@ body {
   }
 }
 
-@media (min-width: 1024px) and (max-width: 1279px) {
+@media (min-width: 1024px) {
   .window {
     width: 600px;
-    /* Maximum width for extra-large screens (1024px - 1279px) */
   }
 }
 
